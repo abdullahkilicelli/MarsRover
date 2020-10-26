@@ -1,0 +1,8 @@
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\bin\Debug\MarsRoverConsoleAppTest.dll
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\bin\Debug\MarsRoverConsoleAppTest.pdb
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\bin\Debug\MarsRoverConsoleApp.exe
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\bin\Debug\MarsRoverConsoleApp.pdb
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\obj\Debug\MarsRoverConsoleAppTest.csprojResolveAssemblyReference.cache
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\obj\Debug\MarsRoverConsoleAppTest.dll
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleAppTest\obj\Debug\MarsRoverConsoleAppTest.pdb

@@ -1,0 +1,14 @@
+G:\HW_Exam\HepsiBurada\MarsRover_Ver3\MarsRoverConsoleApp\bin\Debug\MarsRoverConsoleApp.exe.config
+G:\HW_Exam\HepsiBurada\MarsRover_Ver3\MarsRoverConsoleApp\bin\Debug\MarsRoverConsoleApp.exe
+G:\HW_Exam\HepsiBurada\MarsRover_Ver3\MarsRoverConsoleApp\bin\Debug\MarsRoverConsoleApp.pdb
+G:\HW_Exam\HepsiBurada\MarsRover_Ver3\MarsRoverConsoleApp\obj\Debug\MarsRoverConsoleApp.csprojResolveAssemblyReference.cache
+G:\HW_Exam\HepsiBurada\MarsRover_Ver3\MarsRoverConsoleApp\obj\Debug\MarsRoverConsoleApp.exe
+G:\HW_Exam\HepsiBurada\MarsRover_Ver3\MarsRoverConsoleApp\obj\Debug\MarsRoverConsoleApp.pdb
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleApp\bin\Debug\MarsRoverConsoleApp.exe.config
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleApp\obj\Debug\MarsRoverConsoleApp.exe
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleApp\obj\Debug\MarsRoverConsoleApp.pdb
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleApp\bin\Debug\MarsRoverConsoleApp.exe
+G:\HW_Exam\HepsiBurada\MarsRover_Ver4\MarsRoverConsoleApp\bin\Debug\MarsRoverConsoleApp.pdb
+C:\Users\bulent\Source\Repos\MarsRover\MarsRoverConsoleApp\bin\Debug\MarsRoverConsoleApp.exe.config
+C:\Users\bulent\Source\Repos\MarsRover\MarsRoverConsoleApp\obj\Debug\MarsRoverConsoleApp.exe
+C:\Users\bulent\Source\Repos\MarsRover\MarsRoverConsoleApp\obj\Debug\MarsRoverConsoleApp.pdb
